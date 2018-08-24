@@ -1,2 +1,0 @@
-# Ujwal Ghatamaneni
-GitHub URL: 
