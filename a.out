@@ -1,5 +1,5 @@
 1 /**
-2 * Author: Ujwal Ghatamenini
+2 * Author: Ujwal Ghatameneni
 3 * Date: 2018/08/23
 4 *
 5 * A simple hello world program in C
