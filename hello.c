@@ -5,12 +5,12 @@
 5 * A simple hello world program in C
 6 *
 7 */
-8 #include <stdlib.h>
-9 #include <stdio.h>
-10
-11 int main(int argc, char **argv) {
-12
-13 printf("Ujwal Ghatamenini. Computer Science is my Major!\n");
-14
-15 return 0;
-16 }
+ #include <stdlib.h>
+ #include <stdio.h>
+
+int main(int argc, char **argv) {
+ printf("Ujwal Ghatamenini. Computer Science is my Major!\n");
+ printf("Matthew Emory\n");
+ printf("Electrical Engineering is my major");
+ return 0;
+ }
